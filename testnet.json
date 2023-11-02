@@ -19,7 +19,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2396.png"
-    },
+    }
   ],
   "version": {
     "major": 1,
