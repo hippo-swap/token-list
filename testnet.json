@@ -18,12 +18,28 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2396.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2396.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0x3c725F9622779c4Aa225bED987056e32326f8094",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/825.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0x6af403A4cC878E766924B694ffaa4a0b9A10f6B3",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/3408.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 1
   }
 }
