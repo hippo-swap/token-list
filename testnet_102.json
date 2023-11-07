@@ -1,0 +1,45 @@
+{
+  "name": "HIPPO",
+  "logoURI": "https://hipposwap.finance/images/logo.png",
+  "keywords": ["infrastructure", "swap", "scroll"],
+  "timestamp": "2023-10-10T10:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 534351,
+      "address": "0xba61964dA4B1eB3606737a0031bFe70665CeAE3d",
+      "name": "HIPPO",
+      "symbol": "HIPPO",
+      "decimals": 18,
+      "logoURI": "https://hipposwap.finance/images/logo.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0x575Ad5f3b05D76Bf8B19E9813A4D88aB1E8cF903",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2396.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0xB12E6A6c122CA68DD1402791311778842101928E",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/825.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0xB43EbF084442889a7FaEB2c93a53eA6493d83454",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/3408.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  }
+}
