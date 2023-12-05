@@ -14,14 +14,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0x2a00647f45047f05bded961eb8ecabc42780e604",
-      "symbol": "LAB.s",
-      "name": "LayerBank Token",
-      "decimals": 18,
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/b52f874e-b47c-4aac-9a18-05d3134701321697792755732.png"
-    },
-    {
-      "chainId": 534352,
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "symbol": "ETH",
       "name": "Ethereum",
