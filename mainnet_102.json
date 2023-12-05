@@ -14,14 +14,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "decimals": 18,
-      "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/9412b9e7-161f-472e-94b2-a62d2c386ab7.png"
-    },
-    {
-      "chainId": 534352,
       "address": "0x5300000000000000000000000000000000000004",
       "symbol": "WETH",
       "name": "Wrapped Ether",
